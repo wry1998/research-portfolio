@@ -9,8 +9,8 @@ This repository serves as a brief overview of my academic and research-related p
 - Applications in actuarial science, health / epidemiology, and risk modeling
 
 ## Selected Projects (to be added)
-- PCA and dimensionality reduction
-- Elastic-net penalized Cox regression (cocktail algorithm replication)
-- Quantitative actuarial / IFRS-17 analysis
+- [Smart Alpha: Portfolio selection with unstable and latent factors](https://github.com/wry1998/smart-alpha)  
+  Replication and extension of the Smart Alpha portfolio strategy with sparse-PCA and dynamic factor modelling.
+
 
 More projects will be gradually migrated here from my past coursework and research work.
