@@ -1,4 +1,4 @@
-# Ruiying Wang
+# Research Portfolio
 
 Welcome to my GitHub profile.  
 This repository serves as a brief overview of my academic and research-related projects.
