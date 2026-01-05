@@ -11,6 +11,8 @@ This repository serves as a brief overview of my academic and research-related p
 ## Selected Projects (to be added)
 - [Smart Alpha: Portfolio selection with unstable and latent factors](https://github.com/wry1998/smart-alpha)  
   Replication and extension of the Smart Alpha portfolio strategy with sparse-PCA and dynamic factor modelling.
+- [Concentrate-Portfolio: Concentrated portfolio selection models based on historical data](https://github.com/wry1998/concentrate-portfolio)  
+  Replication and extension of the concentrate portfolio strategy.
 
-
+  
 More projects will be gradually migrated here from my past coursework and research work.
