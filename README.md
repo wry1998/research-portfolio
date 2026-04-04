@@ -13,6 +13,6 @@ This repository serves as a brief overview of my academic and research-related p
   Replication and extension of the Smart Alpha portfolio strategy with sparse-PCA and dynamic factor modelling.
 - [Concentrate-Portfolio: Concentrated portfolio selection models based on historical data](https://github.com/wry1998/concentrate-portfolio)  
   Replication and extension of the concentrate portfolio strategy.
-
+- [Attainable Concordance Signature on Swiss Market Index](https://github.com/wry1998/Attainable-Concordance-Signature)
   
 More projects will be gradually migrated here from my past coursework and research work.
