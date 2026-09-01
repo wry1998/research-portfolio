@@ -4,8 +4,8 @@ Welcome to my GitHub profile.
 This repository serves as a brief overview of my academic and research-related projects.
 
 ## Research Interests 
-- Dependence modelling
-- High-dimensional Statistics
+- Dependence modelling.
+- High-dimensional Statistics.
 - Previous applications in financial markets; current interests in genetics, genomics, and other complex biological data.
 
 ## Selected Projects
