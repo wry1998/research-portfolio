@@ -4,8 +4,9 @@ Welcome to my GitHub profile.
 This repository serves as a brief overview of my academic and research-related projects.
 
 ## Research Interests 
-- Statistical learning and nonparametric statistics
-- Applications in actuarial science, health / epidemiology, and risk modeling
+- Dependence modelling
+- High-dimensional Statistics
+- Previous applications in financial markets; current interests in genetics, genomics, and other complex biological data.
 
 ## Selected Projects
 - [Smart Alpha: Portfolio selection with unstable and latent factors](https://github.com/wry1998/smart-alpha)  
