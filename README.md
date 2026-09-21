@@ -8,7 +8,7 @@ This repository is a brief overview of my academic and research-related projects
 - Dependence modelling
 - Quantitative risk management
 - High-dimensional statistics
-- Applications in financial markets, genetics, genomics, and other complex biological data.
+- Applications in financial markets and complex biological data, especially genetic and genomic data.
 
 ## Selected Projects
 - [Smart Alpha: Portfolio selection with unstable and latent factors](https://github.com/wry1998/smart-alpha)  
@@ -16,5 +16,5 @@ This repository is a brief overview of my academic and research-related projects
 - [Concentrate-Portfolio: Concentrated portfolio selection models based on historical data](https://github.com/wry1998/concentrate-portfolio)  
   Replication and extension of the *Concentrated portfolio selection models based on historical data. (Chen, Z., Li, Z., & Wang, L. 2014)*
 - [Attainable Concordance Signature on Swiss Market Index](https://github.com/wry1998/Attainable-Concordance-Signature)  
-  An applied study of attainable signatures on Swiss Market Index motivated by *On attainability of Kendall’s tau matrices and concordance signatures. (McNeil, A., Nešlehová, J., & Smith, A. 2022)*
+  An applied study of attainable concordance signatures on Swiss Market Index motivated by *On attainability of Kendall’s tau matrices and concordance signatures. (McNeil, A., Nešlehová, J., & Smith, A. 2022)*
   
