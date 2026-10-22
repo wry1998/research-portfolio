@@ -5,9 +5,10 @@ Welcome to my GitHub profile!
 This repository is a brief overview of my academic and research-related projects.
 
 ## Research Interests 
-- Dependence modelling
+- Dependence modeling
 - Quantitative risk management
 - High-dimensional statistics
+- Imperfect data
 - Applications in financial markets and complex biological data, especially genetic and genomic data.
 
 ## Selected Projects
